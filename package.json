@@ -14,7 +14,7 @@
   "name": "primevue_demo",
   "scripts": {
     "build": "vite build",
-    "dev": "npm install && vite",
+    "dev": "vite",
     "preview": "vite preview"
   },
   "devDependencies": {
